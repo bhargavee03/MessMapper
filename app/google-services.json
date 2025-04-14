@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "922412125157",
+    "project_id": "messmapper",
+    "storage_bucket": "messmapper.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922412125157:android:9436e89263f01045f6fd0c",
+        "android_client_info": {
+          "package_name": "com.example.messmapper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAstRZ4Uo0bEBXM-paZscHJkRGyk3KIUNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
